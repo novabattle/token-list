@@ -1,6 +1,6 @@
 {
   "name": "Nova Battles",
-  "logoURI": "https://www.xxxxxxxxxxxx/logo.png",
+  "logoURI": "https://raw.githubusercontent.com/novabattle/token-list/eaea3e6f3fa70569f820787c5878ab88d1fd8dff/logo.jpg",
   "keywords": [
       "Nova",
       "nva",
@@ -14,7 +14,7 @@
       "name": "Nova Battles",
       "symbol": "NVA",
       "decimals": 18,
-      "logoURI": "https://www.xxxxxxxxxxxx/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/novabattle/token-list/eaea3e6f3fa70569f820787c5878ab88d1fd8dff/logo.jpg"
       }
     ],
     "version": {
