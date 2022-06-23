@@ -1,0 +1,25 @@
+{
+  "name": "Nova Battles",
+  "logoURI": "https://www.xxxxxxxxxxxx/logo.png",
+  "keywords": [
+      "Nova",
+      "nva",
+      "NVA"
+    ],
+    "timestamp": "2022-06-023T01:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0x4b20D07da954bA6735a57B253E0653b1b0e89cC5",
+      "name": "Nova Battles",
+      "symbol": "NVA",
+      "decimals": 18,
+      "logoURI": "https://www.xxxxxxxxxxxx/logo.png"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
